@@ -9,8 +9,8 @@ import {
   CompleteShipment,
   GetShipment,
   StartShipment,
-} from "../../Components/index" ;
-import { TrackingContext } from "../../Conetxt/Tracking";
+} from "../Components/index" ;
+import { TrackingContext } from "../Conetxt/Tracking";
 
 const index = () => {
   const {
